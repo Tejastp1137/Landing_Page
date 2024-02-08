@@ -1,0 +1,6 @@
+.circle {
+    width: 26px;
+    height: 26px;
+    background-color: red;
+    border-radius: 50%; /* This creates the circular shape */
+  }
